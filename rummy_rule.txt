@@ -1,0 +1,37 @@
+BONUS ASSESSMENT
+Rummy variant : points rummy
+
+This game is played with 2 decks.
+Each player is dealt with 13 cards.
+Rest of the cards are placed at the centre of the table which is called the stockpile.
+A card is picked from the stockpile and is made visible to both the players. All the cards of that rank regardless of the suit can be used a jokers.
+Another card from the stockpile is taken and is placed face open on the table. This is called the discard pile
+Player 1 either chooses a card from the stockpile and discard pile and then drops his least favourite card to the discard pile.
+Then Player 2 does the same thing and the first person to use all his 13 cards to form runs and sets that meet the basic requirement of two runs(at least one is pure and one has minimum 4 cards)wins the game.
+
+Pure run:
+The rank all the cards are  arranged in order and the suits of all card are equal.
+
+Impure run:
+If a run is formed using joker as a substitute for any missing card then it is an impure sequence. But you cannot have more than 2 joker in a run.
+
+Set:
+All cards are of same rank but of different suits.
+
+
+GUI:
+13 cards are displayed on the screen and two other piles.The face up pile is the discard pile and face down pile is the stockpile.
+There are a Toal of 6 buttons in the game.
+1. SWAP: enter the position of the 2 cards you want to swap.
+2. DROP:enter the position of your card you want to drop.
+3. SORT: sorts your card based on the ran of cards.
+4. PICK FROM STOCKPILE
+5. PICK FROM DISCARDPILE 6. DECLARE
+
+DECLARE:
+To win a game a player must use all his 13 cards to form runs and sets such that there are a minimum of 2 runs one of them should be a pure run and other should have a minimum of 4 cards(either pure or impure set).
+In a stack of 13 cards 4 sets must be created (3 sets of 3,1 set of 4)
+Player must always place the set of 4 in the beginning.
+
+
+ 
